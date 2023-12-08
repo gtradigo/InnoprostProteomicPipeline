@@ -17,6 +17,9 @@ We tested the pipeline on prostate related clinical data. Models have been train
 
 The pipeline has been used in two biological projects, which present results from a 2 years research project called INNOPROST (see [1-3]).
 
+## Cite us
+May you find this pipeline interesting or useful, please cìte us by using reference [1].
+
 ## References
 [1] C. Gabriele, F. Aracri, L. E. Prestagiacomo, M. A. Rota, S. Alba, G. Tradigo, P. H. Guzzi, G. Cuda, R. Damiano, P. Veltri, et al., *Development of a predictive model to distinguish prostate cancer from benign prostatic hyperplasia by integrating serum glycoproteomics and clinical variables*, **Clinical Proteomics** 20 (1) (2023).
 

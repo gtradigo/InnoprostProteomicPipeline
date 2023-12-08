@@ -5,7 +5,7 @@ Proteomic-based analysis is used to identify biomarkers in blood samples and tis
 
 We present a pipeline using machine learning techniques being able to classify proteomics data enriched by means of clinical information. The pipeline allows users to relate established blood biomarkers with clinical parameters and proteomics data.
 
-[comment]: #![pipeline](/img/pipeline_small.png?raw=true "pipeline workflow")
+# ![pipeline](/img/pipeline_small.png?raw=true "pipeline workflow")
 ![pipeline_small](https://github.com/gtradigo/InnoprostProteomicPipeline/assets/3709044/2c7b143c-8d35-43df-8e15-490caa1ff654)
 
 The proposed pipeline entails three main phases:

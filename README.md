@@ -3,7 +3,9 @@ This is a research prototype of a biological pipeline for the integration of cli
 
 Proteomic-based analysis is used to identify biomarkers in blood samples and tissues. Data produced by devices such as mass spectrometry, requires platforms to identify and quantify proteins (or peptides). Clinical information can be related with mass spectrometry data to identify diseases at an early stage. Machine learning techniques can be used to support physicians and biologists for studying and classifying pathologies.
 
-We present a pipeline using machine learning techniques being able to classify proteomics data enriched by means of clinical information. The pipeline allows users to relate established blood biomarkers with clinical parameters and proteomics data. 
+We present a pipeline using machine learning techniques being able to classify proteomics data enriched by means of clinical information. The pipeline allows users to relate established blood biomarkers with clinical parameters and proteomics data.
+
+![pipeline](/img/pipeline_small.png?raw=true "pipeline workflow")
 
 The proposed pipeline entails three main phases:
 1. feature selection

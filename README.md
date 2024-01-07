@@ -15,14 +15,18 @@ The proposed pipeline entails three main phases:
 
 We tested the pipeline on prostate related clinical data. Models have been trained on a proprietary clinical datasets which results from the integration of clinical and mass spectrometry -based data. The pipeline receives as input data from blood analytes, tissue samples, proteomic information and urine biomarkers. It then trains different models for feature selection and classification. 
 
-The pipeline has been used in two biological projects, which present results from a 2 years research project called INNOPROST (see [1-3]).
+The pipeline has been used in two biological projects, which present results from a 2 years research project called INNOPROST (see [2-4]).
 
 ## Cite us
-May you find this pipeline interesting or useful, please cìte us by using reference [1].
+May you find this pipeline interesting or useful, please cìte us by using references [1], [2] or [3].
 
 ## References
-[1] C. Gabriele, F. Aracri, L. E. Prestagiacomo, M. A. Rota, S. Alba, G. Tradigo, P. H. Guzzi, G. Cuda, R. Damiano, P. Veltri, et al., *Development of a predictive model to distinguish prostate cancer from benign prostatic hyperplasia by integrating serum glycoproteomics and clinical variables*, **Clinical Proteomics** 20 (1) (2023).
+[&nbsp;&nbsp;] **to appear** G. Tradigo, P. Vizza, F. Aracri, M. Gaspari, P.H. Guzzi, P. Veltri, *Machine Learning Pipeline to analyze Clinical and Proteomics Data: experiences on a prostate cancer case*, January 2024, **BMC Medical Informatics and Decision Making**
 
-[2] L. Prestagiacomo, G. Tradigo, F. Aracri, C. Gabriele, M. A. Rota, S. Alba, G. Cuda, R. Damiano, P. Veltri, M. Gaspari, *Data-independent acquisition mass spectrometry of eps-urine coupled to machine learning: a predictive model for prostate cancer*, **ACS Omega** (2022).
+[1] G. Tradigo, P. Vizza, F. Aracri, M. Gaspari, P.H. Guzzi, P. Veltri, *Machine Learning Pipeline to analyze Clinical and Proteomics Data: experiences on a prostate cancer case*, 30 August 2023, **PREPRINT** (Version 1) available at **Research Square** [https://doi.org/10.21203/rs.3.rs-3278134/v1]
 
-[3] P. Vizza, L. Pascuzzi, F. Aracri, E. Tavolaro, P. Lambardi, M. Gaspari, P. H. Guzzi, G. Tradigo, P. Veltri, *Prostate cancer disease study by integrating peptides and clinical data*, in: **AAI4H@ ECAI**, pp. 45–48 (2020).
+[2] C. Gabriele, F. Aracri, L. E. Prestagiacomo, M. A. Rota, S. Alba, G. Tradigo, P. H. Guzzi, G. Cuda, R. Damiano, P. Veltri, et al., *Development of a predictive model to distinguish prostate cancer from benign prostatic hyperplasia by integrating serum glycoproteomics and clinical variables*, **Clinical Proteomics** 20 (1) (2023).
+
+[3] L. Prestagiacomo, G. Tradigo, F. Aracri, C. Gabriele, M. A. Rota, S. Alba, G. Cuda, R. Damiano, P. Veltri, M. Gaspari, *Data-independent acquisition mass spectrometry of eps-urine coupled to machine learning: a predictive model for prostate cancer*, **ACS Omega** (2022).
+
+[4] P. Vizza, L. Pascuzzi, F. Aracri, E. Tavolaro, P. Lambardi, M. Gaspari, P. H. Guzzi, G. Tradigo, P. Veltri, *Prostate cancer disease study by integrating peptides and clinical data*, in: **AAI4H@ ECAI**, pp. 45–48 (2020).
